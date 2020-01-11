@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Your Name</string>
+    <string name="greeting">Hello, my name is (Your Name)</string>
+    <string name="share">Scan this QR code to add me &#8230; </string>
+</resources>
